@@ -108,4 +108,6 @@ public class BasePage {
 
         Assert.assertTrue(isNotVisible);
     }
+
+    // komentar radi provere git-a
 }
